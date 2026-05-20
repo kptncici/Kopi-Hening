@@ -83,4 +83,4 @@ npm run build
 
 ## 👨‍💻 Author
 
-Made with ❤️ by Nhamadani
+Made with ❤️ by Nrhamadani
