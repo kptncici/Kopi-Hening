@@ -2,6 +2,14 @@
 
 Website landing page modern untuk brand kopi **Kopi Hening** menggunakan React, Vite, TypeScript, dan Tailwind CSS.
 
+---
+
+## 🌐 Live Demo
+
+🔗 https://kopi-hening.vercel.app
+
+---
+
 ## 🚀 Tech Stack
 
 - React
@@ -12,21 +20,21 @@ Website landing page modern untuk brand kopi **Kopi Hening** menggunakan React, 
 
 ---
 
-## ✨ Fitur
+## ✨ Features
 
 - Responsive Design
 - Smooth Scrolling
-- Hero Section Modern
+- Hero Section
 - Menu Section
 - Gallery Section
 - Contact Section
 - Typing Animation
 - WhatsApp Button
-- Scroll Animation
+- Scroll Reveal Animation
 
 ---
 
-## 📂 Struktur Project
+## 📂 Project Structure
 
 ```bash
 src/
@@ -53,19 +61,19 @@ Masuk ke folder project:
 cd Kopi-Hening
 ```
 
-Install dependency:
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-Jalankan development server:
+Run development server:
 
 ```bash
 npm run dev
 ```
 
-Buka browser:
+Open browser:
 
 ```bash
 http://localhost:5173
@@ -78,6 +86,12 @@ http://localhost:5173
 ```bash
 npm run build
 ```
+
+---
+
+## 🌍 Deployment
+
+Project deployed using Vercel.
 
 ---
 
